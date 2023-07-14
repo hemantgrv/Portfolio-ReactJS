@@ -1,0 +1,14 @@
+.top-navigation-bar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 60px;
+    .app-logo {
+        width: 143px;
+    }
+    img {
+        width: 100%;
+        display: block;
+    }
+}
